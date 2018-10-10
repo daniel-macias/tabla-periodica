@@ -1,0 +1,1932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="687.0" prefWidth="1310.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <JFXButton buttonType="RAISED" layoutX="51.0" layoutY="31.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="51.0" layoutY="73.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="51.0" layoutY="88.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="51.0" layoutY="47.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="51.0" layoutY="99.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="51.0" layoutY="141.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="51.0" layoutY="156.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="51.0" layoutY="115.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="51.0" layoutY="167.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="51.0" layoutY="209.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="51.0" layoutY="224.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="51.0" layoutY="183.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="51.0" layoutY="235.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="51.0" layoutY="277.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="51.0" layoutY="292.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="51.0" layoutY="251.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="51.0" layoutY="303.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="51.0" layoutY="345.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="51.0" layoutY="360.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="51.0" layoutY="319.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="51.0" layoutY="371.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="51.0" layoutY="413.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="51.0" layoutY="428.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="51.0" layoutY="387.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="51.0" layoutY="439.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="51.0" layoutY="481.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="51.0" layoutY="496.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="51.0" layoutY="455.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="119.0" layoutY="99.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="119.0" layoutY="141.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="119.0" layoutY="156.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="119.0" layoutY="115.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="119.0" layoutY="167.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="119.0" layoutY="209.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="119.0" layoutY="224.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="119.0" layoutY="183.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="119.0" layoutY="235.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="119.0" layoutY="277.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="119.0" layoutY="292.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="119.0" layoutY="251.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="119.0" layoutY="303.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="119.0" layoutY="345.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="119.0" layoutY="360.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="119.0" layoutY="319.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="119.0" layoutY="371.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="119.0" layoutY="413.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="119.0" layoutY="428.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="119.0" layoutY="387.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="119.0" layoutY="439.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="119.0" layoutY="481.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="119.0" layoutY="496.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="119.0" layoutY="455.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="187.0" layoutY="235.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="187.0" layoutY="277.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="187.0" layoutY="292.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="187.0" layoutY="251.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="187.0" layoutY="303.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="187.0" layoutY="345.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="187.0" layoutY="360.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="187.0" layoutY="319.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="187.0" layoutY="371.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="187.0" layoutY="413.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="187.0" layoutY="428.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="187.0" layoutY="387.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="187.0" layoutY="439.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="187.0" layoutY="481.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="187.0" layoutY="496.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="187.0" layoutY="455.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="255.0" layoutY="235.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="255.0" layoutY="277.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="255.0" layoutY="292.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="255.0" layoutY="251.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="255.0" layoutY="303.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="255.0" layoutY="345.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="255.0" layoutY="360.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="255.0" layoutY="319.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="255.0" layoutY="371.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="255.0" layoutY="413.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="255.0" layoutY="428.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="255.0" layoutY="387.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="255.0" layoutY="439.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="255.0" layoutY="481.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="255.0" layoutY="496.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="255.0" layoutY="455.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="323.0" layoutY="235.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="323.0" layoutY="277.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="323.0" layoutY="292.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="323.0" layoutY="251.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="323.0" layoutY="303.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="323.0" layoutY="345.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="323.0" layoutY="360.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="323.0" layoutY="319.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="323.0" layoutY="371.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="323.0" layoutY="413.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="323.0" layoutY="428.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="323.0" layoutY="387.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="323.0" layoutY="439.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="323.0" layoutY="481.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="323.0" layoutY="496.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="323.0" layoutY="455.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="391.0" layoutY="235.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="391.0" layoutY="277.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="391.0" layoutY="292.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="391.0" layoutY="251.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="391.0" layoutY="303.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="391.0" layoutY="345.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="391.0" layoutY="360.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="391.0" layoutY="319.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="391.0" layoutY="371.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="391.0" layoutY="413.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="391.0" layoutY="428.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="391.0" layoutY="387.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="391.0" layoutY="439.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="391.0" layoutY="481.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="391.0" layoutY="496.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="391.0" layoutY="455.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="459.0" layoutY="235.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="459.0" layoutY="277.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="459.0" layoutY="292.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="459.0" layoutY="251.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="459.0" layoutY="303.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="459.0" layoutY="345.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="459.0" layoutY="360.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="459.0" layoutY="319.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="459.0" layoutY="371.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="459.0" layoutY="413.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="459.0" layoutY="428.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="459.0" layoutY="387.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="459.0" layoutY="439.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="459.0" layoutY="481.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="459.0" layoutY="496.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="459.0" layoutY="455.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="527.0" layoutY="235.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="527.0" layoutY="277.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="527.0" layoutY="292.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="527.0" layoutY="251.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="527.0" layoutY="303.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="527.0" layoutY="345.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="527.0" layoutY="360.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="527.0" layoutY="319.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="527.0" layoutY="371.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="527.0" layoutY="413.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="527.0" layoutY="428.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="527.0" layoutY="387.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="527.0" layoutY="439.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="527.0" layoutY="481.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="527.0" layoutY="496.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="527.0" layoutY="455.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="595.0" layoutY="235.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="595.0" layoutY="277.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="595.0" layoutY="292.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="595.0" layoutY="251.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="595.0" layoutY="303.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="595.0" layoutY="345.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="595.0" layoutY="360.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="595.0" layoutY="319.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="595.0" layoutY="371.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="595.0" layoutY="413.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="595.0" layoutY="428.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="595.0" layoutY="387.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="595.0" layoutY="439.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="595.0" layoutY="481.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="595.0" layoutY="496.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="595.0" layoutY="455.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="663.0" layoutY="235.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="663.0" layoutY="277.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="663.0" layoutY="292.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="663.0" layoutY="251.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="663.0" layoutY="303.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="663.0" layoutY="345.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="663.0" layoutY="360.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="663.0" layoutY="319.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="663.0" layoutY="371.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="663.0" layoutY="413.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="663.0" layoutY="428.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="663.0" layoutY="387.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="663.0" layoutY="439.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="663.0" layoutY="481.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="663.0" layoutY="496.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="663.0" layoutY="455.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="731.0" layoutY="235.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="731.0" layoutY="277.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="731.0" layoutY="292.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="731.0" layoutY="251.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="731.0" layoutY="303.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="731.0" layoutY="345.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="731.0" layoutY="360.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="731.0" layoutY="319.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="731.0" layoutY="371.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="731.0" layoutY="413.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="731.0" layoutY="428.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="731.0" layoutY="387.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="731.0" layoutY="439.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="731.0" layoutY="481.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="731.0" layoutY="496.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="731.0" layoutY="455.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="799.0" layoutY="235.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="799.0" layoutY="277.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="799.0" layoutY="292.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="799.0" layoutY="251.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="799.0" layoutY="303.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="799.0" layoutY="345.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="799.0" layoutY="360.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="799.0" layoutY="319.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="799.0" layoutY="371.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="799.0" layoutY="413.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="799.0" layoutY="428.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="799.0" layoutY="387.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="799.0" layoutY="439.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="799.0" layoutY="481.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="799.0" layoutY="496.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="799.0" layoutY="455.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="867.0" layoutY="99.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="867.0" layoutY="141.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="867.0" layoutY="156.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="867.0" layoutY="115.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="867.0" layoutY="167.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="867.0" layoutY="209.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="867.0" layoutY="224.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="867.0" layoutY="183.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="867.0" layoutY="235.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="867.0" layoutY="277.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="867.0" layoutY="292.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="867.0" layoutY="251.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="867.0" layoutY="303.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="867.0" layoutY="345.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="867.0" layoutY="360.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="867.0" layoutY="319.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="867.0" layoutY="371.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="867.0" layoutY="413.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="867.0" layoutY="428.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="867.0" layoutY="387.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="867.0" layoutY="439.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="867.0" layoutY="481.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="867.0" layoutY="496.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="867.0" layoutY="455.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="935.0" layoutY="99.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="935.0" layoutY="141.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="935.0" layoutY="156.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="935.0" layoutY="115.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="935.0" layoutY="167.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="935.0" layoutY="209.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="935.0" layoutY="224.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="935.0" layoutY="183.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="935.0" layoutY="235.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="935.0" layoutY="277.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="935.0" layoutY="292.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="935.0" layoutY="251.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="935.0" layoutY="303.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="935.0" layoutY="345.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="935.0" layoutY="360.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="935.0" layoutY="319.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="935.0" layoutY="371.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="935.0" layoutY="413.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="935.0" layoutY="428.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="935.0" layoutY="387.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="935.0" layoutY="439.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="935.0" layoutY="481.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="935.0" layoutY="496.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="935.0" layoutY="455.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1003.0" layoutY="99.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1003.0" layoutY="141.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1003.0" layoutY="156.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1003.0" layoutY="115.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1003.0" layoutY="167.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1003.0" layoutY="209.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1003.0" layoutY="224.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1003.0" layoutY="183.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1003.0" layoutY="235.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1003.0" layoutY="277.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1003.0" layoutY="292.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1003.0" layoutY="251.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1003.0" layoutY="303.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1003.0" layoutY="345.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1003.0" layoutY="360.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1003.0" layoutY="319.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1003.0" layoutY="371.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1003.0" layoutY="413.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1003.0" layoutY="428.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1003.0" layoutY="387.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1003.0" layoutY="439.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1003.0" layoutY="481.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1003.0" layoutY="496.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1003.0" layoutY="455.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1071.0" layoutY="99.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1071.0" layoutY="141.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1071.0" layoutY="156.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1071.0" layoutY="115.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1071.0" layoutY="167.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1071.0" layoutY="209.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1071.0" layoutY="224.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1071.0" layoutY="183.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1071.0" layoutY="235.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1071.0" layoutY="277.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1071.0" layoutY="292.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1071.0" layoutY="251.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1071.0" layoutY="303.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1071.0" layoutY="345.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1071.0" layoutY="360.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1071.0" layoutY="319.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1071.0" layoutY="371.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1071.0" layoutY="413.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1071.0" layoutY="428.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1071.0" layoutY="387.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1071.0" layoutY="439.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1071.0" layoutY="481.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1071.0" layoutY="496.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1071.0" layoutY="455.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1208.0" layoutY="31.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1208.0" layoutY="73.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1208.0" layoutY="88.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1208.0" layoutY="47.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1208.0" layoutY="99.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1208.0" layoutY="141.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1208.0" layoutY="156.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1208.0" layoutY="115.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1208.0" layoutY="167.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1208.0" layoutY="209.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1208.0" layoutY="224.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1208.0" layoutY="183.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1208.0" layoutY="235.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1208.0" layoutY="277.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1208.0" layoutY="292.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1208.0" layoutY="251.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1208.0" layoutY="303.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1208.0" layoutY="345.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1208.0" layoutY="360.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1208.0" layoutY="319.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1208.0" layoutY="371.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1208.0" layoutY="413.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1208.0" layoutY="428.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1208.0" layoutY="387.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1208.0" layoutY="439.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1208.0" layoutY="481.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1208.0" layoutY="496.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1208.0" layoutY="455.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1139.0" layoutY="99.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1139.0" layoutY="141.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1139.0" layoutY="156.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1139.0" layoutY="115.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1139.0" layoutY="167.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1139.0" layoutY="209.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1139.0" layoutY="224.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1139.0" layoutY="183.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1139.0" layoutY="235.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1139.0" layoutY="277.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1139.0" layoutY="292.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1139.0" layoutY="251.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1139.0" layoutY="303.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1139.0" layoutY="345.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1139.0" layoutY="360.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1139.0" layoutY="319.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1139.0" layoutY="371.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1139.0" layoutY="413.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1139.0" layoutY="428.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1139.0" layoutY="387.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1139.0" layoutY="439.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1139.0" layoutY="481.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1139.0" layoutY="496.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1139.0" layoutY="455.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="254.0" layoutY="524.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="254.0" layoutY="566.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="254.0" layoutY="581.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="254.0" layoutY="540.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="254.0" layoutY="592.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="254.0" layoutY="634.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="254.0" layoutY="649.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="254.0" layoutY="608.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="322.0" layoutY="524.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="322.0" layoutY="566.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="322.0" layoutY="581.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="322.0" layoutY="540.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="322.0" layoutY="592.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="322.0" layoutY="634.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="322.0" layoutY="649.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="322.0" layoutY="608.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="390.0" layoutY="524.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="390.0" layoutY="566.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="390.0" layoutY="581.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="390.0" layoutY="540.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="390.0" layoutY="592.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="390.0" layoutY="634.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="390.0" layoutY="649.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="390.0" layoutY="608.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="458.0" layoutY="524.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="458.0" layoutY="566.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="458.0" layoutY="581.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="458.0" layoutY="540.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="458.0" layoutY="592.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="458.0" layoutY="634.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="458.0" layoutY="649.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="458.0" layoutY="608.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="526.0" layoutY="524.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="526.0" layoutY="566.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="526.0" layoutY="581.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="526.0" layoutY="540.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="526.0" layoutY="592.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="526.0" layoutY="634.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="526.0" layoutY="649.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="526.0" layoutY="608.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="594.0" layoutY="524.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="594.0" layoutY="566.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="594.0" layoutY="581.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="594.0" layoutY="540.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="594.0" layoutY="592.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="594.0" layoutY="634.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="594.0" layoutY="649.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="594.0" layoutY="608.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="662.0" layoutY="524.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="662.0" layoutY="566.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="662.0" layoutY="581.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="662.0" layoutY="540.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="662.0" layoutY="592.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="662.0" layoutY="634.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="662.0" layoutY="649.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="662.0" layoutY="608.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="730.0" layoutY="524.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="730.0" layoutY="566.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="730.0" layoutY="581.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="730.0" layoutY="540.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="730.0" layoutY="592.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="730.0" layoutY="634.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="730.0" layoutY="649.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="730.0" layoutY="608.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="798.0" layoutY="524.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="798.0" layoutY="566.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="798.0" layoutY="581.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="798.0" layoutY="540.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="798.0" layoutY="592.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="798.0" layoutY="634.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="798.0" layoutY="649.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="798.0" layoutY="608.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="866.0" layoutY="524.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="866.0" layoutY="566.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="866.0" layoutY="581.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="866.0" layoutY="540.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="866.0" layoutY="592.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="866.0" layoutY="634.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="866.0" layoutY="649.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="866.0" layoutY="608.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="934.0" layoutY="524.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="934.0" layoutY="566.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="934.0" layoutY="581.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="934.0" layoutY="540.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="934.0" layoutY="592.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="934.0" layoutY="634.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="934.0" layoutY="649.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="934.0" layoutY="608.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1002.0" layoutY="524.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1002.0" layoutY="566.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1002.0" layoutY="581.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1002.0" layoutY="540.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1002.0" layoutY="592.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1002.0" layoutY="634.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1002.0" layoutY="649.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1002.0" layoutY="608.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1070.0" layoutY="524.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1070.0" layoutY="566.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1070.0" layoutY="581.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1070.0" layoutY="540.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1070.0" layoutY="592.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1070.0" layoutY="634.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1070.0" layoutY="649.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1070.0" layoutY="608.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1207.0" layoutY="524.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1207.0" layoutY="566.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1207.0" layoutY="581.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1207.0" layoutY="540.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1207.0" layoutY="592.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1207.0" layoutY="634.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1207.0" layoutY="649.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1207.0" layoutY="608.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1138.0" layoutY="524.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1138.0" layoutY="566.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1138.0" layoutY="581.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1138.0" layoutY="540.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1138.0" layoutY="592.0" prefHeight="66.0" prefWidth="66.0" ripplerFill="WHITE" style="-fx-background-color: #a0c3ff;" text=" " />
+      <Text disable="true" layoutX="1138.0" layoutY="634.0" strokeType="OUTSIDE" strokeWidth="0.0" text="H" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium" size="36.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1138.0" layoutY="649.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hidrógeno" textAlignment="CENTER" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+      <Text disable="true" layoutX="1138.0" layoutY="608.0" strokeType="OUTSIDE" strokeWidth="0.0" text="  1" wrappingWidth="66.39998424053192">
+         <font>
+            <Font name="Roboto Medium Italic" size="12.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>
