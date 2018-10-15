@@ -170,7 +170,7 @@ public class Elemento {
     }
 
     public String getSourceDeImgAtom(){
-        String source = "file: D:\\DocsHDD\\Cosas TEC\\POO\\TablaPeriodica\\tabla-periodica\\src\\sample\\imgsAtom" + numero + ".png";
+        String source = "file:D:\\DocsHDD\\Cosas TEC\\POO\\TablaPeriodica\\tabla-periodica\\src\\sample\\imgsAtom\\" + numero + ".png";
         return source;
     }
 }

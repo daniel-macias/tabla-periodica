@@ -1,5 +1,6 @@
 package sample;
 
+import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.fxml.Initializable;
@@ -50,6 +51,24 @@ public class Controller implements Initializable {
     private void cargarDetallesElem(){  //Acepta el id de escena a cual quiere cambiar
         try {
             Parent  sigScn = (AnchorPane) FXMLLoader.load(getClass().getResource("ElemDetalles.fxml"));
+
+            Scene newScene = new Scene(sigScn);
+
+            Stage curStage = (Stage) tablaPane.getScene().getWindow();
+
+            curStage.setScene(newScene);
+        }catch (IOException ex){
+            System.out.println("Error al cargar la otras escena");
+            System.out.println(ex.getCause());
+        }
+    }
+
+
+
+    @FXML
+    void cargarInfoTablaPeriodica(ActionEvent event) {  //TODO HACER UNA FUNCION UNIVERSAL PARA QUITAR LINEAR REPETIDAS
+        try {
+            Parent  sigScn = (AnchorPane) FXMLLoader.load(getClass().getResource("TablaPeriodicaAbout.fxml"));
 
             Scene newScene = new Scene(sigScn);
 

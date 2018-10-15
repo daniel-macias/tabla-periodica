@@ -31,6 +31,7 @@ public class lectorDeJSON {
             eleTemporal.setInfo(elemento.get("summary").toString());
             eleTemporal.setDescubiertoEn(elemento.get("descubierto_en").toString());
             eleTemporal.setPorcentajeCuerpoHumano(elemento.get("porcentaje_humanos").toString());
+            eleTemporal.setShells(elemento.get("shells").toString());
 
 
             Main.getListaElementos().add(eleTemporal);

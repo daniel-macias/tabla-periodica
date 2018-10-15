@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="panelACambiar" prefHeight="687.0" prefWidth="1310.0" style="-fx-background-color: #ffffff;" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.ContTablaPeriodicaAbout">
+   <children>
+      <Text fx:id="nombreElemento" disable="true" layoutX="402.0" layoutY="66.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Acerca de la Tabla Periódica" textAlignment="CENTER" wrappingWidth="506.5999755859375">
+         <font>
+            <Font name="Roboto Light" size="36.0" />
+         </font>
+      </Text>
+      <Text layoutX="155.0" layoutY="114.0" strokeType="OUTSIDE" strokeWidth="0.0" text="La tabla periódica de los elementos es una disposición de los elementos químicos en forma de tabla, ordenados por su número atómico (número de protones),1​ por su configuración de electrones y sus propiedades químicas. Este ordenamiento muestra tendencias periódicas, como elementos con comportamiento similar en la misma columna.En palabras de Theodor Benfey, la tabla y la ley periódica «son el corazón de la química —comparables a la teoría de la evolución en biología (que sucedió al concepto de la Gran Cadena del Ser), y a las leyes de la termodinámica en la física clásica—»." wrappingWidth="1000.0">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+      <Text layoutX="155.0" layoutY="259.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Las filas de la tabla se denominan períodos y las columnas grupos. 4​Algunos grupos tienen nombres. Así por ejemplo el grupo 17 es el de los halógenos y el grupo 18 el de los gases nobles.5​ La tabla también se divide en cuatro bloques con algunas propiedades químicas similares.6​ Debido a que las posiciones están ordenadas, se puede utilizar la tabla para obtener relaciones entre las propiedades de los elementos, o pronosticar propiedades de elementos nuevos todavía no descubiertos o sintetizados. La tabla periódica proporciona un marco útil para analizar el comportamiento químico y es ampliamente utilizada en química y otras ciencias." wrappingWidth="1000.0">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+      <ImageView fitHeight="272.0" fitWidth="441.0" layoutX="463.0" layoutY="383.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@imgsOtras/1.gif" />
+         </image>
+      </ImageView>
+      <JFXButton layoutX="1234.0" layoutY="22.0" onAction="#regresarALaTabla" prefHeight="42.0" prefWidth="52.0" style="-fx-background-color: #4f95ff;" text="Atrás" textFill="WHITE">
+         <font>
+            <Font name="Roboto Bold Italic" size="12.0" />
+         </font>
+      </JFXButton>
+   </children>
+</AnchorPane>

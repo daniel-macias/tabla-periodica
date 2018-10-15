@@ -103,7 +103,7 @@ public class ContElemDetalles implements Initializable {
         elementoAUsar = Main.getListaElementos().get(Main.getNumeroDeElemento() - 1); //Agarra el elemento que sea usado para el gui
 
         nombreElemento.setText(elementoAUsar.getNombre());
-        imagenAtomo.setImage(new Image(elementoAUsar.getSourceDeImgAtom()));  //busca el source de la imagen a poner
+
         nombreCmb.setText(elementoAUsar.getNombre());
         categoriaCmb.setText(elementoAUsar.getCategoria());
         masaCmb.setText(elementoAUsar.getMasa());
@@ -120,6 +120,16 @@ public class ContElemDetalles implements Initializable {
         shellsCmb.setText(elementoAUsar.getEstado());
 
         textoInformacion.setText(elementoAUsar.getInfo());
+
+        Image temp = new Image(elementoAUsar.getSourceDeImgAtom());
+
+        System.out.println(elementoAUsar.getSourceDeImgAtom());
+
+        imagenAtomo.setImage(temp);  //busca el source de la imagen a poner
+
+        textoInformacion.setEditable(false);
+        textoInformacion.setMouseTransparent(true);
+        textoInformacion.setFocusTraversable(false);
 
     }
 }
