@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane fx:id="panelACambiar" prefHeight="687.0" prefWidth="1310.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.ContElemDetalles">
+   <children>
+      <Text fx:id="nombreElemento" disable="true" layoutX="402.0" layoutY="59.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Nombre del Elemento" textAlignment="CENTER" wrappingWidth="506.5999755859375">
+         <font>
+            <Font name="Roboto Light" size="36.0" />
+         </font>
+      </Text>
+      <ImageView fx:id="imagenAtomo" fitHeight="282.0" fitWidth="282.0" layoutX="35.0" layoutY="72.0" pickOnBounds="true" preserveRatio="true" />
+      <JFXButton layoutX="1229.0" layoutY="20.0" onAction="#regresarALaTabla" prefHeight="42.0" prefWidth="52.0" style="-fx-background-color: #4f95ff;" text="Atrás" textFill="WHITE">
+         <font>
+            <Font name="Roboto Bold Italic" size="12.0" />
+         </font>
+      </JFXButton>
+      <Text layoutX="35.0" layoutY="377.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Nombre:">
+         <font>
+            <Font name="Roboto Medium Italic" size="16.0" />
+         </font>
+      </Text>
+      <Text layoutX="35.0" layoutY="398.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Categoría:">
+         <font>
+            <Font name="Roboto Medium Italic" size="16.0" />
+         </font>
+      </Text>
+      <Text layoutX="35.0" layoutY="419.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Masa atómica:">
+         <font>
+            <Font name="Roboto Medium Italic" size="16.0" />
+         </font>
+      </Text>
+      <Text layoutX="35.0" layoutY="440.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Punto de fusión:">
+         <font>
+            <Font name="Roboto Medium Italic" size="16.0" />
+         </font>
+      </Text>
+      <Text layoutX="35.0" layoutY="462.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Punto de ebullición:">
+         <font>
+            <Font name="Roboto Medium Italic" size="16.0" />
+         </font>
+      </Text>
+      <Text layoutX="35.0" layoutY="483.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Apariencia:">
+         <font>
+            <Font name="Roboto Medium Italic" size="16.0" />
+         </font>
+      </Text>
+      <Text layoutX="35.0" layoutY="504.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Densidad:">
+         <font>
+            <Font name="Roboto Medium Italic" size="16.0" />
+         </font>
+      </Text>
+      <Text layoutX="35.0" layoutY="525.0" strokeType="OUTSIDE" strokeWidth="0.0" text="\% en cuerpo humano:">
+         <font>
+            <Font name="Roboto Medium Italic" size="16.0" />
+         </font>
+      </Text>
+      <Text layoutX="35.0" layoutY="545.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Descubierto por:">
+         <font>
+            <Font name="Roboto Medium Italic" size="16.0" />
+         </font>
+      </Text>
+      <Text layoutX="35.0" layoutY="566.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Descubierto en:">
+         <font>
+            <Font name="Roboto Medium Italic" size="16.0" />
+         </font>
+      </Text>
+      <Text layoutX="35.0" layoutY="587.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Número:">
+         <font>
+            <Font name="Roboto Medium Italic" size="16.0" />
+         </font>
+      </Text>
+      <Text layoutX="35.0" layoutY="607.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Símbolo:">
+         <font>
+            <Font name="Roboto Medium Italic" size="16.0" />
+         </font>
+      </Text>
+      <Text layoutX="35.0" layoutY="628.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Estado ordinario:">
+         <font>
+            <Font name="Roboto Medium Italic" size="16.0" />
+         </font>
+      </Text>
+      <Text layoutX="35.0" layoutY="649.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Shells:">
+         <font>
+            <Font name="Roboto Medium Italic" size="16.0" />
+         </font>
+      </Text>
+      <ImageView fx:id="imagenElemento" fitHeight="249.0" fitWidth="360.0" layoutX="936.0" layoutY="76.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fx:id="imagenEspectro" fitHeight="90.0" fitWidth="360.0" layoutX="936.0" layoutY="369.0" pickOnBounds="true" preserveRatio="true" />
+      <Text fx:id="nombreCmb" layoutX="190.0" layoutY="377.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Nombre:">
+         <font>
+            <Font name="Roboto Light Italic" size="16.0" />
+         </font>
+      </Text>
+      <Text fx:id="categoriaCmb" layoutX="190.0" layoutY="398.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Categoría:">
+         <font>
+            <Font name="Roboto Light Italic" size="16.0" />
+         </font>
+      </Text>
+      <Text fx:id="masaCmb" layoutX="190.0" layoutY="419.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Masa atómica:">
+         <font>
+            <Font name="Roboto Light Italic" size="16.0" />
+         </font>
+      </Text>
+      <Text fx:id="puntoFusCmb" layoutX="190.0" layoutY="440.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Punto de fusión:">
+         <font>
+            <Font name="Roboto Light Italic" size="16.0" />
+         </font>
+      </Text>
+      <Text fx:id="puntoEbuCmb" layoutX="190.0" layoutY="462.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Punto de ebullición:">
+         <font>
+            <Font name="Roboto Light Italic" size="16.0" />
+         </font>
+      </Text>
+      <Text fx:id="aparienciaCmb" layoutX="190.0" layoutY="483.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Apariencia:">
+         <font>
+            <Font name="Roboto Light Italic" size="16.0" />
+         </font>
+      </Text>
+      <Text fx:id="densidadCmb" layoutX="190.0" layoutY="504.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Densidad:">
+         <font>
+            <Font name="Roboto Light Italic" size="16.0" />
+         </font>
+      </Text>
+      <Text fx:id="porCuerpCmb" layoutX="190.0" layoutY="525.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Apariencia:">
+         <font>
+            <Font name="Roboto Light Italic" size="16.0" />
+         </font>
+      </Text>
+      <Text fx:id="descPorCmb" layoutX="190.0" layoutY="545.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Descubierto por:">
+         <font>
+            <Font name="Roboto Light Italic" size="16.0" />
+         </font>
+      </Text>
+      <Text fx:id="descEnCmb" layoutX="190.0" layoutY="566.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Descubierto en:">
+         <font>
+            <Font name="Roboto Light Italic" size="16.0" />
+         </font>
+      </Text>
+      <Text fx:id="numeroCmb" layoutX="190.0" layoutY="587.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Número:">
+         <font>
+            <Font name="Roboto Light Italic" size="16.0" />
+         </font>
+      </Text>
+      <Text fx:id="simboloCmb" layoutX="190.0" layoutY="607.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Símbolo:">
+         <font>
+            <Font name="Roboto Light Italic" size="16.0" />
+         </font>
+      </Text>
+      <Text fx:id="estadoCmb" layoutX="190.0" layoutY="628.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Estado ordinario:">
+         <font>
+            <Font name="Roboto Light Italic" size="16.0" />
+         </font>
+      </Text>
+      <Text fx:id="shellsCmb" layoutX="190.0" layoutY="649.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Shells:">
+         <font>
+            <Font name="Roboto Light Italic" size="16.0" />
+         </font>
+      </Text>
+      <TextArea fx:id="textoInformacion" layoutX="374.0" layoutY="72.0" prefHeight="442.0" prefWidth="517.0" text="El hidrógeno (en griego, de ὕδωρ hýdōr, genitivo ὑδρός hydrós, y γένος génos «que genera o produce agua») es el elemento químico de número atómico 1, representado por el símbolo H. Con una masa atómica de 1,007971​, es el más ligero de la tabla de los elementos. Por lo general, se presenta en su forma molecular, formando el gas diatómico H2 en condiciones normales. Este gas es inflamable, incoloro, inodoro, no metálico e insoluble en agua.2​&#10;&#10;Debido a sus distintas propiedades, el hidrógeno no se puede encuadrar claramente en ningún grupo de la tabla periódica, aunque muchas veces se sitúa en el grupo 1 (o familia 1A) por poseer un solo electrón en la capa de valencia o capa superior.&#10;&#10;El hidrógeno es el elemento químico más abundante, al constituir aproximadamente el 75 % de la materia visible del universo.3​nota 1​ En su secuencia principal, las estrellas están compuestas principalmente por hidrógeno en estado de plasma. El hidrógeno elemental es relativamente raro en la Tierra y es producido industrialmente a partir de hidrocarburos como, por ejemplo, el metano. La mayor parte del hidrógeno elemental se obtiene in situ, es decir, en el lugar y en el momento en que se necesita. Los mayores mercados del mundo disfrutan de la utilización del hidrógeno para el mejoramiento de combustibles fósiles (en el proceso de hidrocraqueo) y en la producción de amoníaco (principalmente para el mercado de fertilizantes). El hidrógeno puede obtenerse a partir del agua por un proceso de electrólisis, pero resulta un método mucho más caro que la obtención a partir del gas natural." wrapText="true">
+         <font>
+            <Font name="Roboto" size="13.0" />
+         </font>
+      </TextArea>
+   </children>
+</AnchorPane>
