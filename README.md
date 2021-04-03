@@ -1,5 +1,5 @@
 # tabla-periodica
-Proyecto de Programación Orientada a Objetos
+Tabla periódica de elementos con datos sacados de wikipedia automáticamente por internet
 
 Librerías requeridas:
 - JavaFX v 8
